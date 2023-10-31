@@ -10,30 +10,16 @@
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
-          <Node name="WeatherApp" expanded="True" selected="True">
-            <Node name=".vs" expanded="True">
-              <Node name="WeatherApp" expanded="True">
-                <Node name="xs" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="WeatherApp">
-              <Node name="Dependencies" expanded="True" />
-            </Node>
+          <Node name="WeatherApp" expanded="True">
+            <Node name="WeatherApp" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Option id="ShowAllFiles" value="True" />
-          <Node name="WeatherApp" expanded="True" selected="True">
-            <Node name=".vs" expanded="True">
-              <Node name="WeatherApp" expanded="True">
-                <Node name="xs" expanded="True" />
-              </Node>
-            </Node>
-            <Node name="WeatherApp">
-              <Node name="Dependencies" expanded="True" />
-            </Node>
+          <Node name="WeatherApp" expanded="True">
+            <Node name="WeatherApp" expanded="True" />
           </Node>
         </State>
       </Pad>

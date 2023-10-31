@@ -1,0 +1,17 @@
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/bin/Debug/net7.0/WeatherApp
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/bin/Debug/net7.0/WeatherApp.deps.json
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/bin/Debug/net7.0/WeatherApp.runtimeconfig.json
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/bin/Debug/net7.0/WeatherApp.dll
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/bin/Debug/net7.0/WeatherApp.pdb
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/WeatherApp.csproj.AssemblyReference.cache
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/WeatherApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/WeatherApp.AssemblyInfoInputs.cache
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/WeatherApp.AssemblyInfo.cs
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/WeatherApp.csproj.CoreCompileInputs.cache
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/WeatherApp.csproj.CopyComplete
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/WeatherApp.dll
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/refint/WeatherApp.dll
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/WeatherApp.pdb
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/WeatherApp.genruntimeconfig.cache
+/Users/saralewis/Desktop/repos/WeatherApp/WeatherApp/obj/Debug/net7.0/ref/WeatherApp.dll
