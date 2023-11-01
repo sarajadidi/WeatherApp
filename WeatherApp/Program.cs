@@ -22,6 +22,7 @@ namespace WeatherApp
             //Console.WriteLine($"It is currently {WeatherMap.GetTemp(apiCall)} degrees F in your location.");
 
             double temperature = WeatherMap.GetTemp(apiCall);
+            double feelingLike = WeatherMap.GetTemp(apiCall);
 
             Console.WriteLine();
             Console.WriteLine($"It is currently {temperature} degrees F in your location.");
@@ -42,6 +43,7 @@ namespace WeatherApp
             {
                 Console.WriteLine("It's warm. Enjoy the pleasant weather!");
             }
+            Console.WriteLine($"People are saying is feels like {feelingLike} degrees F though.");
         }
     }
 }

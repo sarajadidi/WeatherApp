@@ -14,6 +14,14 @@ namespace WeatherApp
 
 			return temp;
 		}
-	}
+        public static double GetFeels(string apiCall)
+        {
+            var client = new HttpClient();
+            var response = client.GetStringAsync(apiCall).Result;
+            var feels = double.Parse(JObject.Parse(response)["main"]["feels_like"].ToString());
+
+            return feels;
+        }
+    }
 }
 
